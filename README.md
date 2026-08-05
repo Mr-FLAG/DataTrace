@@ -9,6 +9,6 @@ Google: https://github.com/google/cluster-data
 
 Facebook: lost
 
-For distribute job execution case.
+Preprocessed for distribute job execution case.
 
 Information consists of the job ID, arrival time, number of task, data partition size (same for tasks of the same job), site distribution (sites = 10), duration of each task.
